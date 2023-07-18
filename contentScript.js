@@ -11,6 +11,9 @@ function checkIfHostnameHasSuspiciousTlds(hostnameStr){
   if(hostnameStr.endsWith('.mov') == true){
     alert("Caution: Hostname in URL ends with .mov");
   }
+  if(hostnameStr.endsWith('.co') == true){
+    alert("Caution: Hostname in URL ends with .co");
+  }
   if(hostnameStr.endsWith('.cn') == true){
     alert("Caution: Hostname in URL ends with .cn");
   }
