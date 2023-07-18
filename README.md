@@ -12,4 +12,8 @@ A Google Chrome and Microsoft Edge browser extension that performs some basic ru
 
 I look forward to receiving feedback and ideas for improvement.
 
-I'm also looking for collaborators. 
+I'm also looking for collaborators.
+
+# Credits
+
+- Icon is created by FauzIDEA. [More](https://www.flaticon.com/free-icon/website_2931281)
