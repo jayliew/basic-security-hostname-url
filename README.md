@@ -14,6 +14,10 @@ I look forward to receiving feedback and ideas for improvement.
 
 I'm also looking for collaborators.
 
+# License
+
+MIT
+
 # Credits
 
 - Icon is created by FauzIDEA. [More](https://www.flaticon.com/free-icon/website_2931281)
