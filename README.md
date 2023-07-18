@@ -8,6 +8,8 @@ A Google Chrome and Microsoft Edge browser extension that performs some basic ru
 
 2. Check if the domain name in the URL is obfuscated in such a way that leads to a malicious link, using the new TLDs .zip and .mov [Example](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 
+If either 1 and/or 2 are are true, an alert popup with a warning will be presented to the user.
+
 # How to install
 
 Review is pending on Chrome Web Store.
