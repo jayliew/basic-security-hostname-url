@@ -9,8 +9,7 @@
   },
   "homepage_url": "https://jayliew.com",
   "permissions": [
-    "tabs",
-    "scripting"
+    "activeTab"
   ],
   "content_scripts": [
     {
