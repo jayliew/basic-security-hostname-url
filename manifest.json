@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Basic URL Hostname Security Check",
+  "version": "1.0",
+  "description": "Warn if non-ASCII in URL Hostname, or if TLD is .zip or .mov",
+  "author": {
+    "name": "Jay Liew",
+    "email": "jayliew@jayliew.com"
+  },
+  "homepage_url": "https://jayliew.com",
+  "permissions": [
+    "tabs",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
