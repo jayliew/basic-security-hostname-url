@@ -8,6 +8,9 @@
     "email": "jayliew@jayliew.com"
   },
   "homepage_url": "https://jayliew.com",
+  "icons": {
+    "128": "icon128.png"
+  },
   "permissions": [
     "activeTab"
   ],
