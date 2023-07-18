@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Basic URL Hostname Security Check",
   "version": "1.0",
-  "description": "Warn if non-ASCII in URL Hostname, or if TLD is .zip or .mov. See the open source code here: https://github.com/jayliew/basic-security-hostname-url",
+  "description": "Warn if non-ASCII in URL Hostname, or if TLD is .zip or .mov. Source code: https://liew.co/chrome-ext-url-check",
   "author": {
     "name": "Jay Liew",
     "email": "jayliew@jayliew.com"
